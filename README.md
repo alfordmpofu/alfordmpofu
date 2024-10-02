@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...Artificial Intelligence/Medical Neuroscience 
 - 🌱 I’m currently learning ...Medical Neuroscience,Machine learning, Artficial Intelligence 
 - 👯 I’m looking to collaborate on ... Anything of the Future 
-- 🤔 I’m looking for help with ...Any help is help. Open minded AF
+- 🤔 I’m looking for help with ...Any help is help. Open minded 
 - 💬 Ask me about ...Africa, anything 
 - 📫 How to reach me: ...Alford.mpofu@icloud.com
 - 😄 Pronouns: ... Us/We/United
