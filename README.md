@@ -1,27 +1,19 @@
-I'm a dedicated professional with a background in special needs facilitation, operations leadership, and applied psychology. My passion is rooted in supporting individuals with diverse needs and creating inclusive environments.
+Cover letter
+ 
+A dynamic and strategically focused leader, I am committed to fostering inclusive environments and empowering individuals to achieve growth.  My background spans education, youth advocacy and community development, and I am currently expanding my expertise in computer science, global sustainability, global diplomacy, and international relations.  My skills in innovation, collaboration, creative thinking, and social impact position me to drive meaningful change.  This diverse portfolio of skills and knowledge, fueled by a passion for continuous learning, makes me confident that I will be a valuable asset to both the school and its students.
 
-### Key Experiences:
-- Special Needs Facilitator at The Sisu Hub
-- Leadership roles in operations management
-- Academic background in Applied Psychology
+Having recently completed my Advanced TEFL 40Hrs, is a milestone in pursuit of academic excellence in the English language.  I am now equipped with advanced English skills and excellent communication capabilities.
 
-### Career Goals:
-Currently pursuing further education in Global Diplomacy to enhance my skills and expertise in international relations and youth development.
+Key strengths and experiences include:
+  * Special Needs Education: Expertise in developing personalized learning plans and creating inclusive environments for students with autism, apraxia, and communication difficulties.
+  * Event Management: Proven ability to lead event strategies, manage budgets, curate exhibitions, and engage with stakeholders.
+  * Hospitality Management: Strong foundation in operations management, staff supervision, and maintaining high service standards.
+  * International Relations and Diplomacy: Knowledge of Middle Eastern affairs and experience in global diplomacy.
+  * Technical Skills: Proficiency in data analysis, computer programming, project management, and event coordination.
 
-I bring a unique blend of experience in education, management, and psychology to my work, with a focus on strategic planning, team leadership, and problem-solving. Eager to apply these skills in the realm of global politics and diplomacy.
-```
+My professional philosophy centers around leadership, strategic planning, and creating inclusive environments. I am passionate about empowering individuals and fostering growth opportunities across various sectors, particularly in education.
 
-<!--
-**alfordmpofu/alfordmpofu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With a very strong academic background, including ongoing studies in Computer Science, Global Sustainability and Diplomacy. 
 
-Here are some ideas to get you started:
+I am well-positioned to contribute to organizations that value Innovation, Inclusivity, Collaboration, and Social impact. My diverse skill set and commitment to continuous learning make me a valuable asset to any team. “Undoubtedly” 
 
-- 🔭 I’m currently working on ...Artificial Intelligence/Medical Neuroscience 
-- 🌱 I’m currently learning ...Medical Neuroscience,Machine learning, Artficial Intelligence 
-- 👯 I’m looking to collaborate on ... Anything of the Future 
-- 🤔 I’m looking for help with ...Any help is help. Open minded 
-- 💬 Ask me about ...Africa, AI, anything 
-- 📫 How to reach me: ...Alford.mpofu@icloud.com
-- 😄 Pronouns: ... Us/We/United
-- ⚡ Fun fact: ...I'm a crazy Twisted Scientist 
--->
