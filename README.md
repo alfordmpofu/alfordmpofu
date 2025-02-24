@@ -1,4 +1,4 @@
-I'm a dedicated professional with a background in special needs facilitation, operations leadership, and applied psychology. My passion lies in supporting individuals with diverse needs and creating inclusive environments.
+I'm a dedicated professional with a background in special needs facilitation, operations leadership, and applied psychology. My passion is rooted in supporting individuals with diverse needs and creating inclusive environments.
 
 ### Key Experiences:
 - Special Needs Facilitator at The Sisu Hub
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...Medical Neuroscience,Machine learning, Artficial Intelligence 
 - 👯 I’m looking to collaborate on ... Anything of the Future 
 - 🤔 I’m looking for help with ...Any help is help. Open minded 
-- 💬 Ask me about ...Africa, anything 
+- 💬 Ask me about ...Africa, AI, anything 
 - 📫 How to reach me: ...Alford.mpofu@icloud.com
 - 😄 Pronouns: ... Us/We/United
 - ⚡ Fun fact: ...I'm a crazy Twisted Scientist 
